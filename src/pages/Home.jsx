@@ -41,10 +41,10 @@ const Home = () => {
           tiktok
         </a>
       </Line>
-
+*/}
       <Line type="bottom-line">
         <a
-          href="https://www.youtube.com/@wonwonleywonmusic"
+          href="https://www.youtube.com/@wonwonleywon"
           target="_blank"
           rel="noopener noreferrer"
           className={classes.navLink}
@@ -52,7 +52,7 @@ const Home = () => {
         >
           youtube
         </a>
-      </Line> */}
+      </Line> 
 
       <Line type="bottom-line">
         <NavLink to="/contactus/" className={classes.navLink}>
