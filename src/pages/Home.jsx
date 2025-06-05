@@ -17,7 +17,7 @@ const Home = () => {
           talent
         </NavLink>
       </Line>
-
+{/* 
       <Line type="bottom-line">
         <a
           href="https://www.instagram.com/wonwonleywontalent"
@@ -28,7 +28,7 @@ const Home = () => {
         >
           instagram
         </a>
-      </Line>
+      </Line> */}
 
       {/* <Line type="bottom-line">
         <a
@@ -60,7 +60,7 @@ const Home = () => {
         </NavLink>
       </Line>
 
-      <Line type="bottom-line">
+      {/* <Line type="bottom-line">
         <a
           href="https://www.wonwonleywon.com"
           target="_blank"
@@ -70,9 +70,10 @@ const Home = () => {
         >
           wonwonleywon the fashion brand
         </a>
-      </Line>
+      </Line> */}
 
       {/* Placeholder lines */}
+      <Line type="bottom-line" />
       <Line type="bottom-line" />
       <Line type="bottom-line" />
       <Line type="bottom-line" />
