@@ -8,22 +8,28 @@ const Contactus = () => {
   return (
     <>
       <BackButton />
-      <Line type="bottom-lin">
-        <div className={classes.contactContainer}>
-          <p 
-            className={classes.contactText} 
-            style={{ marginTop: "28px", lineHeight: "1.47", padding: "0 1px" }} // Adjust lineHeight and padding for better spacing
-          >
+      <Line 
+      
+      className={classes.navLink}
+        style={{
+          display: "flex",
+          alignItems: "center",
+          padding: "1rem",
+          flexWrap: "wrap",
+        }}>
+      
+         
            to become one of our talents, work with us, hire our talents, or for any other questions, email us at{' '}
-            <a 
-              href="mailto:support@wonwonleywontalent.com" 
-              className={classes.emailLink} 
-              style={{ color: "black", marginTop: "25px" }}
+             <a 
+             href="mailto:support@wonwonleywonmusic.com"
+          style={{
+            color: "black",
+            textDecoration: "underline",
+            marginLeft: "5px",
+          }}
             >
-              support@wonwonleywontalent.com
+              support@wonwonleywonclub.com
             </a>
-          </p>
-        </div>
       </Line>
     </>
   );
