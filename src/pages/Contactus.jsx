@@ -21,7 +21,7 @@ const Contactus = () => {
          
            to become one of our talents, work with us, hire our talents, or for any other questions, email us at{' '}
              <a 
-             href="mailto:support@wonwonleywonmusic.com"
+             href="mailto:support@wonwonleywontalent.com"
           style={{
             color: "black",
             textDecoration: "underline",
