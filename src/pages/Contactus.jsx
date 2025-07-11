@@ -28,7 +28,7 @@ const Contactus = () => {
             marginLeft: "5px",
           }}
             >
-              support@wonwonleywonclub.com
+              support@wonwonleywontalent.com
             </a>
       </Line>
     </>
